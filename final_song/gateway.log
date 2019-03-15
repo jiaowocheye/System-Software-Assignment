@@ -1,0 +1,92 @@
+1 1528459594 SQL connection established
+
+2 1528459595 Table created successfully or already exists
+
+3 1528459595 A sensor node with id=15 has opened a new connection
+
+4 1528459602 The sensor node with id=15 has closed the connection
+
+5 1528459607 Connection to SQL server lost
+
+1 1528459664 SQL connection established
+
+2 1528459665 Table created successfully or already exists
+
+3 1528459671 Connection to SQL server lost
+
+1 1528459850 SQL connection established
+
+1 1528459857 SQL connection established
+
+2 1528459858 Table created successfully or already exists
+
+3 1528459864 Connection to SQL server lost
+
+1 1528459899 SQL connection established
+
+2 1528459900 Table created successfully or already exists
+
+3 1528459906 Connection to SQL server lost
+
+1 1528459929 SQL connection established
+
+2 1528459930 Table created successfully or already exists
+
+3 1528459936 Connection to SQL server lost
+
+1 1528460731 SQL connection established
+
+2 1528460732 Table created successfully or already exists
+
+3 1528460738 Connection to SQL server lost
+
+1 1528460749 SQL connection established
+
+2 1528460750 Table created successfully or already exists
+
+3 1528460750 A sensor node with id=15 has opened a new connection
+
+4 1528460758 The sensor node with id=15 has closed the connection
+
+5 1528460763 Connection to SQL server lost
+
+1 1528461600 SQL connection established
+
+2 1528461601 Table created successfully or already exists
+
+3 1528461602 A sensor node with id=15 has opened a new connection
+
+4 1528461610 The sensor node with 15 reports it's too hot(running avg temperature=20)
+
+5 1528461612 The sensor node with 15 reports it's too hot(running avg temperature=20)
+
+6 1528461618 The sensor node with id=15 has closed the connection
+
+7 1528461624 Connection to SQL server lost
+
+1 1528461800 SQL connection established
+
+2 1528461802 Table created successfully or already exists
+
+3 1528461805 A sensor node with id=15 has opened a new connection
+
+4 1528461815 The sensor node with id=15 has closed the connection
+
+5 1528461820 Connection to SQL server lost
+
+1 1528461931 SQL connection established
+
+2 1528461932 Table created successfully or already exists
+
+3 1528461938 Connection to SQL server lost
+
+1 1528461950 SQL connection established
+
+2 1528461951 Table created successfully or already exists
+
+3 1528461952 A sensor node with id=15 has opened a new connection
+
+4 1528461968 The sensor node with id=15 has closed the connection
+
+5 1528461973 Connection to SQL server lost
+
